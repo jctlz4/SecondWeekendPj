@@ -1,0 +1,11 @@
+{
+  "name": "SecondWeekendPj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jctlz4/SecondWeekendPj.git",
+  "author": "Jose Torres <jctlz4@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
